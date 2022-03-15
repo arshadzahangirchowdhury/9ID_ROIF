@@ -1,6 +1,6 @@
 
-9-ID BNP ROI-Finder's documentation!
-====================================
+Documentation for 9-ID BNP ROI-Finder
+=====================================
 
 Code Examples
 =============
