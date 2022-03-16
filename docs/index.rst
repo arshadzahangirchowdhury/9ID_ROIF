@@ -14,21 +14,21 @@ An example of a code block to explain pieces of code if necessary.
 
 
 
-Guide
+Content
 ^^^^^
 
 .. toctree::
    :maxdepth: 2
    
-   ROI-Finder
+   About
    License
    Help
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
